@@ -1,0 +1,10 @@
+title: NeonEdge
+description: Lightning-fast, modern solutions with a neon edge.
+url: "" # Set to your GitHub Pages URL later, e.g., "https://username.github.io"
+baseurl: "" # If using a project site, set to "/repo-name"
+markdown: kramdown
+theme: null
+permalink: pretty
+exclude:
+  - node_modules
+  - README.md
